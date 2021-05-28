@@ -1,14 +1,12 @@
 
 ## Hello World! 👋👋 
-:point_right: Check out my profile
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A1ssius-carrion-03ab8a181)
+:point_right: :point_down: Check out my profile! :point_down: :point_left:
 
 Hey, I'm Thassius, an engineering student from Brazil. 🚀🚀🚀
 
  - ⚡ I’m currently looking for opportunities to start my career as a BackEnd developer.
- - 🌱 I’m currently learning Java 8+ and it's frameworks. 
- - 📫 How to reach me: 
+ - :mortar_board: I’m currently learning Java 8+ and it's frameworks. 
+ - 📫 How to reach me: [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A1ssius-carrion-03ab8a181)
 
 ## Languages and Tools:
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
