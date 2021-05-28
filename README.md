@@ -7,7 +7,7 @@ Hey, I'm Thassius, an engineering student from Brazil.
  - 🌱 I’m currently learning Java 8+ and it's frameworks. (JPA Hibernate, Springboot)  
  - 👯 I’m looking to collaborate on Github Readme Stats
  - 💬 Ask me about anything here
- - 📫 How to reach me: https://www.linkedin.com/in/th%C3%A1ssius-carrion-03ab8a181/
+ - 📫 How to reach me: 
 
 ## Languages and Tools:
 ![image]({https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white})
