@@ -8,7 +8,7 @@ Hey, I'm Thassius, an engineering student from Brazil.
  - 📫 How to reach me: 
 
 ## Languages and Tools:
-![image]({http://s2.glbimg.com/Xdw2Ii3YcKAYkFlejYOFmqEms84=/695x0/s.glbimg.com/po/tt2/f/original/2014/03/11/veja-como-resolver-problemas-com-o-java-no-pc.jpg})
+![image](http://s2.glbimg.com/Xdw2Ii3YcKAYkFlejYOFmqEms84=/695x0/s.glbimg.com/po/tt2/f/original/2014/03/11/veja-como-resolver-problemas-com-o-java-no-pc.jpg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thassius-carrion&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
