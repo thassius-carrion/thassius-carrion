@@ -1,5 +1,6 @@
 
-## Hello there 👋👋
+## Hello World! 👋👋 
+:point_right: Check out my profile
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A1ssius-carrion-03ab8a181)
 
