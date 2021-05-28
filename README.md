@@ -1,6 +1,8 @@
 
 ## Hello there 👋👋
 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A1ssius-carrion-03ab8a181)
+
 Hey, I'm Thassius, an engineering student from Brazil. 🚀🚀🚀
 
  - ⚡ I’m currently looking for opportunities to start my career as a BackEnd developer.
