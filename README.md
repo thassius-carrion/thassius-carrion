@@ -2,10 +2,10 @@
 ## Hello World! 👋👋 
 :point_right: :point_down: Check out my profile! :point_down: :point_left:
 
-Hey, I'm Thassius, an engineering student from Brazil. 🚀🚀🚀
+Hey, I'm Thassius, an Energy Engineering student from Brazil. 🚀🚀🚀
 
- - ⚡ I’m currently looking for opportunities to start my career as a BackEnd developer.
- - :mortar_board: I’m currently learning Java 8+ and it's frameworks. 
+ - ⚡ I’m currently working at Programmer's as Software Trainee.
+ - :mortar_board: I’m currently learning C# .NET and it's frameworks. 
  - 📫 How to reach me: [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A1ssius-carrion-03ab8a181)
 
 ## Languages and Tools:
