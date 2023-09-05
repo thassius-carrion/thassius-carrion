@@ -2,7 +2,7 @@
 ## Hello World! 👋👋 
 :point_right: :point_down: Check out my profile! :point_down: :point_left:
 
-Hey, I'm Thassius, an Energy Engineering student from Brazil. 🚀🚀🚀
+Hey, I'm Thassius, an Energy Engineer from Brazil. 🚀🚀🚀
 
  - ⚡ I’m currently working at Programmer's as Assistant Developer.
  - :mortar_board: I’m currently learning C# .NET, Angular and it's frameworks. 
