@@ -4,7 +4,7 @@
 
 Hey, I'm Thassius, an Energy Engineer from Brazil. 🚀🚀🚀
 
- - ⚡ I’m currently working at Programmer's as Assistant Developer.
+ - ⚡ I’m currently working at Programmer's as Software Developer.
  - :mortar_board: I’m currently learning C# .NET, Angular and it's frameworks. 
  - 📫 How to reach me: [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A1ssius-carrion-03ab8a181)
 
